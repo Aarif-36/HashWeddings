@@ -236,7 +236,7 @@ text-decoration: none;
 }
 /*----------------------------------proct2-------------------------------*/
 .proct2{
-  background-color: rgb(245, 244, 236);
+  background-color: #f7f7f7;
   color: gray;
   text-align: center;
   padding:5rem 2rem 5rem 2rem;
@@ -368,7 +368,7 @@ display: inline-block;
 
 /*----------------------------------------recent----------------------------*/
 .recent-gallery1 {
-  border: 1px gray solid;
+  border: 10px gray solid;
   border-radius: 0;
   background-color: white;
   padding-bottom: 2%;

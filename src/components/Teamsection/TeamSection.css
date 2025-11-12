@@ -13,10 +13,10 @@
 }
 
 .team-title {
-  font-size: 7rem;
+  font-size: 5rem;
   margin-bottom: 80px;
   letter-spacing:20px;
-  color:#333;
+  color:gray;
   font-weight: 0 !important;
 }
 
