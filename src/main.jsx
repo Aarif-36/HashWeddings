@@ -8,7 +8,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter basename="/HashWeddings">
+    <BrowserRouter basename="/HashWeddings/">
       <App />
     </BrowserRouter>
   </StrictMode>
